@@ -1,0 +1,20 @@
+{
+    \"Name\" : \"MyTabser\",
+    \"Version\" : \"$$QTCREATOR_VERSION\",
+    \"CompatVersion\" : \"$$QTCREATOR_COMPAT_VERSION\",
+    \"DisabledByDefault\" : false,
+    \"HiddenByDefault\" : false,
+    \"Vendor\" : \"kallup non-profit\",
+    \"Copyright\" : \"(c) Jens Kallup\",
+    \"License\" : [ \"non-commercial usage\",
+                  \"\",
+                  \"Licensees holding\",
+                  \"\",
+                  \"GNU General Public License Usage\",
+                  \"\",
+                  \"3.0.html.\"
+    ],
+    \"Description\" : \"MyTabser sample plugin.\",
+    \"Url\" : \"http://www.kallup.net\",
+    $$dependencyList
+}
